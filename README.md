@@ -95,7 +95,9 @@ This is a college project, but we welcome feedback and suggestions!
 ## 👥 Team Members
 
 - [@the-carnage](https://github.com/the-carnage)
-- [Add other team members]
+- [@Aniruddh-13](https://github.com/Aniruddh-14)
+- [Add other team members
+]
 
 ## 📝 License
 
