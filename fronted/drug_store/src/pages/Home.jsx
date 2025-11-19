@@ -48,6 +48,9 @@ export default function Home() {
   ), [inlegalItems])
 
   return (
+    <div>
+      <h2>Home</h2>
+      <p>Welcome to the product management system.</p>
     <div style={{ padding: '0 16px' }}>
       <h2 style={{ fontSize: '2.5em', color: '#646cff', textShadow: '0 0 5px rgba(100, 108, 255, 0.5)' }}>The Black Market of Legalities</h2>
       <p style={{ color: '#aaa', marginBottom: 24 }}>
@@ -59,4 +62,5 @@ export default function Home() {
       </div>
     </div>
   )
+}
 }
