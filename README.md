@@ -1,10 +1,10 @@
-# Inlegal Store 🏪
+# Zero Proof Hub 🏪
 
 A unique web platform where users can discover and share legal things that surprisingly seem illegal. Ever done something totally legal but felt like you were breaking the law? This is the place to share those experiences!
 
 ## 📖 About The Project
 
-Inlegal Store is a community-driven website that celebrates those quirky moments when perfectly legal activities feel oddly forbidden. From removing mattress tags to carrying large amounts of cash, users can list, browse, and vote on the most "inlegal" experiences.
+Zero Proof Hub is a community-driven website that celebrates those quirky moments when perfectly legal activities feel oddly forbidden. From removing mattress tags to carrying large amounts of cash, users can list, browse, and vote on the most "inlegal" experiences.
 
 ### Key Features
 

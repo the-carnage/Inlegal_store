@@ -51,16 +51,16 @@ export default function Home() {
     <div>
       <h2>Home</h2>
       <p>Welcome to the product management system.</p>
-    <div style={{ padding: '0 16px' }}>
-      <h2 style={{ fontSize: '2.5em', color: '#646cff', textShadow: '0 0 5px rgba(100, 108, 255, 0.5)' }}>The Black Market of Legalities</h2>
-      <p style={{ color: '#aaa', marginBottom: 24 }}>
-        Welcome to the Inlegal Store. These items are perfectly legal to possess and use. But they feel... wrong.
-      </p>
+      <div style={{ padding: '0 16px' }}>
+        <h2 style={{ fontSize: '2.5em', color: '#646cff', textShadow: '0 0 5px rgba(100, 108, 255, 0.5)' }}>The Black Market of Legalities</h2>
+        <p style={{ color: '#aaa', marginBottom: 24 }}>
+          Welcome to the Zero Proof Hub. These items are perfectly legal to possess and use. But they feel... wrong.
+        </p>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 20, maxWidth: 900, margin: '0 auto' }}>
-        {itemsView}
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 20, maxWidth: 900, margin: '0 auto' }}>
+          {itemsView}
+        </div>
       </div>
     </div>
   )
-}
 }
